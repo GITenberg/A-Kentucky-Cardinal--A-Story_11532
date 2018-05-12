@@ -1,5 +1,8 @@
 _repo: A-Kentucky-Cardinal--A-Story_11532
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, James Lane
@@ -14,6 +17,8 @@ description: Though the American South played an important role in contributing 
   gift for description and unforgettable characters helped him rise to prominence
   among the ""local color"" literary movement in the South, and his prodigious talents
   are on full display in the novella A Kentucky Cardinal.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11532#A-Kentucky-Cardinal--A-Story
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
